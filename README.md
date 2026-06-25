@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Muhammad Wajih Ul Hassan 👋
 
 ## About Me
 
