@@ -56,7 +56,7 @@ GUI-based defense platform with weapon inventory (hash tables), mission schedule
 
 ---
 
-### 🏭 POF Management System
+### 🏭 [POF Management System](https://github.com/Wajih-Gakhar/pof-management-system.git)
 > C++ · OOP · Qt · OpenCV
 
 Secure multi-role system with dual authentication via password hashing & **face recognition**. Includes employee records, inventory, production logging, and maintenance scheduling.
