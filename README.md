@@ -49,7 +49,7 @@ Full-stack SaaS booking platform with real-time scheduling, multi-role system (A
 
 ---
 
-### 🛡️ Integrated Defense Command System
+### 🛡️ Integrated Defense Command System(https://github.com/Wajih-Gakhar/defense-command-system.git)
 > C++ · OOP · DSA · Qt
 
 GUI-based defense platform with weapon inventory (hash tables), mission scheduler (max-heap), threat analyzer (BST), and base defense simulation using queues & stacks.
