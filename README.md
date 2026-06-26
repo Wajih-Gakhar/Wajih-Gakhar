@@ -63,7 +63,7 @@ Secure multi-role system with dual authentication via password hashing & **face 
 
 ---
 
-### ✈️ Aviation Management System *(Bahria University Project Gala)*
+### ✈️ [Aviation Management System](https://github.com/Wajih-Gakhar/aviation-management-system.git) *(Bahria University Project Gala)*
 > C++ · OOP · Qt
 
 Aviation operations platform covering fleet management, pilot tracking, mission scheduling, and maintenance logging with a full Qt GUI.
