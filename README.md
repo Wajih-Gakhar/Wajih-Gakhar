@@ -71,7 +71,7 @@ Aviation operations platform covering fleet management, pilot tracking, mission 
 ---
 
 ### 📚 More Projects
-- 🅿️ **Parking Management System** — Multi-vehicle type pricing & real-time slot tracking
+- 🅿️ [**Parking Management System**](https://github.com/Wajih-Gakhar/parking-management-system.git) — Multi-vehicle type pricing & real-time slot tracking
 - 🎓 **LMS Clone (Bahria University)** — Role-based access for Admin, Teacher & Student
 - 📓 **Digital Diary** — Desktop (C++/Qt) & Web (React) versions
 - 🧮 **GPA Calculator** — Desktop & Android with persistent storage & theme switching
