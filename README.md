@@ -73,7 +73,7 @@ Aviation operations platform covering fleet management, pilot tracking, mission 
 ### 📚 More Projects
 - 🅿️ [**Parking Management System**](https://github.com/Wajih-Gakhar/parking-management-system.git) — Multi-vehicle type pricing & real-time slot tracking
 - 🎓 [**LMS Clone (Bahria University)**](https://github.com/Wajih-Gakhar/bahria-lms-clone.git) — Role-based access for Admin, Teacher & Student
-- 📓 **Digital Diary** — Desktop (C++/Qt) & Web (React) versions
+- 📓 [**Digital Diary**](https://github.com/Wajih-Gakhar/digital-diary.git) — Desktop (C++/Qt) & Web (React) versions
 - 🧮 **GPA Calculator** — Desktop & Android with persistent storage & theme switching
 - ⚙️ **Marks Management System** — Built in x86 MASM Assembly using Irvine32
 
